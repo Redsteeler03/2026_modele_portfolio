@@ -21,6 +21,7 @@ site:
     # favicon: favicon.ico
     logo: content/other/site_logo.png
     logo_text: "Casanova Nicola"
+    style: style.css
   nav: []
   parts: 
     footer: []
