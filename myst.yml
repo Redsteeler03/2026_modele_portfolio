@@ -19,7 +19,7 @@ site:
     folders: true
     hide_footer_links: true
     # favicon: favicon.ico
-    logo: content/img/IMG_0802.jpg
+    logo: content/other/site_logo.png
     logo_text: "Casanova Nicola"
   nav: []
   parts: 
