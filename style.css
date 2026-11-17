@@ -1,4 +1,3 @@
-header img {
-  height: 1px !important;
-  width: auto !important;
+body {
+  background: red !important;
 }
