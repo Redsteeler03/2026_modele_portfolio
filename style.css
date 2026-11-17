@@ -1,5 +1,4 @@
-img[src*="site_logo"],
-img.h-9 {
+img[src*="site_logo"] {
   height: 5rem !important;
   width: auto !important;
   max-height: none !important;
