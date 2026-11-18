@@ -1,5 +1,5 @@
 img[src*="site_logo"] {
-  height: 5rem !important;
+  height: 10rem !important;
   width: auto !important;
   max-height: none !important;
 }
